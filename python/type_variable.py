@@ -1,0 +1,12 @@
+a=10
+print(a)
+print(type(a))
+b=20.5
+print(b)
+print(type(b))
+c="hello"
+print(c)
+print(type(c))
+d=complex(11,22)
+print(d)
+print(type(d))
