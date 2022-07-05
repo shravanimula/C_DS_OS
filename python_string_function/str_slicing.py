@@ -1,0 +1,11 @@
+a='hello,thundersoft india'
+print(a[0])
+print(a[1])
+print(a[2])
+print('length of string:',len(a))
+print(a[:len(a)+1])
+print(a[:10])
+print(a[6:18])
+print(a[0:])
+print(a[-10:-1])
+print(a[-5:])
