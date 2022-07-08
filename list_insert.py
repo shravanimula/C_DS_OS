@@ -1,0 +1,21 @@
+string=['hello','thundersoft','hyd']
+print(string)
+string.insert(2,'india')
+print(string)
+string1=[10,20,30,40]
+print(string1)
+string2=['hiii','thundersoft','privated']
+print(string2)
+string2.append('hyd')
+print(string2)
+st=['hello','thundersoft','india']
+print(st)
+st1=['hiii','good morning']
+print(st1)
+st.extend(st1)
+print(st)
+stlist=["aaaa","bbbbb","cccccc","dddddddd"]
+print(stlist)
+sttuple=("AAAAAA","BBBBBBBB","CCCCCCC","DDDDDDDD")
+stlist.extend(sttuple)
+print(stlist)
