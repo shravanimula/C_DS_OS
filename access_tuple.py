@@ -1,0 +1,8 @@
+a=("aaaaa","bbbbb","ccccc","ddddd","eeeee")
+print(a[1])
+print(a[3])
+print(a[-1])
+print(a[:-1])
+print(a[0:])
+print(a[:4])
+print(a[-4:-2])
